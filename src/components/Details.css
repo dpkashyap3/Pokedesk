@@ -1,0 +1,28 @@
+.hero{
+    background-color:slategrey!important;
+    border-radius:50%;
+    width:60%;
+    height:60%;
+    box-shadow:10px 10px 3px skyblue, -10px -10px 3px teal;
+}
+.back{
+    background-color:grey!important;
+    font-size:16px;
+    
+}
+.name{
+
+ color:white;
+ text-shadow:1px 2px 3px crimson;
+}
+.image{
+height:120%;
+width:120%;
+}
+li{
+    list-style:none;
+}
+.fix{
+    display:flex;
+    overflow:hidden;
+}
