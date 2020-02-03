@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pokedesk/static/css/main.77b38919.chunk.css",
+    "main.js": "/pokedesk/static/js/main.989bb0b7.chunk.js",
+    "main.js.map": "/pokedesk/static/js/main.989bb0b7.chunk.js.map",
+    "runtime-main.js": "/pokedesk/static/js/runtime-main.33bf08ca.js",
+    "runtime-main.js.map": "/pokedesk/static/js/runtime-main.33bf08ca.js.map",
+    "static/css/2.64a99b10.chunk.css": "/pokedesk/static/css/2.64a99b10.chunk.css",
+    "static/js/2.af3c1d21.chunk.js": "/pokedesk/static/js/2.af3c1d21.chunk.js",
+    "static/js/2.af3c1d21.chunk.js.map": "/pokedesk/static/js/2.af3c1d21.chunk.js.map",
+    "index.html": "/pokedesk/index.html",
+    "precache-manifest.db9f7f3f0951d4058647db89e9528650.js": "/pokedesk/precache-manifest.db9f7f3f0951d4058647db89e9528650.js",
+    "service-worker.js": "/pokedesk/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/pokedesk/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.77b38919.chunk.css.map": "/pokedesk/static/css/main.77b38919.chunk.css.map",
+    "static/js/2.af3c1d21.chunk.js.LICENSE": "/pokedesk/static/js/2.af3c1d21.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33bf08ca.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.af3c1d21.chunk.js",
+    "static/css/main.77b38919.chunk.css",
+    "static/js/main.989bb0b7.chunk.js"
+  ]
+}
