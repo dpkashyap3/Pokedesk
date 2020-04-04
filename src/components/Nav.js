@@ -14,8 +14,8 @@ function Nav() {
 
   <div className="collapse navbar-collapse" id="navbarNav">
     <ul className="navbar-nav ml-auto">
-        <Link className="nav-item nav-link mr-5" to="/">Home</Link>
-        <Link className="nav-item nav-link" to="/aboutme">About Me</Link>
+        <Link className="nav-item nav-link mr-5" to="/pokedesk">Home</Link>
+        <Link className="nav-item nav-link" to="/pokedesk/aboutme">About Me</Link>
     </ul>
   </div>
   </div>
