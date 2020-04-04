@@ -13,9 +13,9 @@ function App() {
         
         <Nav />
         <Switch>
-        <Route path="/" exact component={Home}/>
-        <Route path="/detail/:id" component={Details}/>
-        <Route path="/aboutme" component={About}/>        
+        <Route path="/pokedesk" exact component={Home}/>
+        <Route path="/pokedesk/detail/:id" component={Details}/>
+        <Route path="/pokedesk/aboutme" component={About}/>        
         </Switch>
         <Footer/>
     </Router>
